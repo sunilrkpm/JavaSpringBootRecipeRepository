@@ -1,0 +1,4 @@
+com/example/recipe/Recipe.class
+com/example/recipe/RecipeApplication.class
+com/example/recipe/RecipeRepository.class
+com/example/recipe/RecipeService.class
